@@ -307,6 +307,6 @@ Released under the [MIT License](LICENSE). See `LICENSE` for details.
 **Schrodinger Cats** · Team ID `VTU-QFF-HC-0067` · Tier `Online`
 · Built with ⚛️ Qiskit for the VTU-QFF Hackathon
 
-[⬆ Back to Top](#Schrodinger Cats)
+[⬆ Back to Top](#schrodinger-cats)
 
 </div>
